@@ -47,7 +47,7 @@ Currency-Converter/
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/vishnuvk18/currency_converter
 ```
 
 **2. Open the project folder**
